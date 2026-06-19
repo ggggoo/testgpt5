@@ -1,0 +1,14 @@
+[package]
+name = "lockfree_mpmc_queue"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A lock-free bounded MPMC queue using only atomic operations."
+
+[lib]
+name = "lockfree_mpmc_queue"
+path = "src/lib.rs"
+
+[[bench]]
+name = "throughput"
+harness = false
