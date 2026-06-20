@@ -1,0 +1,1 @@
+{"rustc":16696009966390864400,"features":"[]","declared_features":"[]","target":13119384602427168346,"profile":2040997289075261528,"path":10763286916239946207,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/lockfree_mpmc_queue-18c362e6442a8650/dep-lib-lockfree_mpmc_queue","checksum":false}}],"rustflags":[],"config":8247474407144887393,"compile_kind":0}
